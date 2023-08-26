@@ -86,7 +86,7 @@
 .barra_icono {
     display: flex;
     width: auto;
-    justify-content:space-around;
+    justify-content:space-between;
     align-content: center;
     padding: 5px;
 }
